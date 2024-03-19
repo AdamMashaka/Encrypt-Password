@@ -1,7 +1,7 @@
 # Encrypt-Password
 # Create-Your-Own-File-Encryption-and-Decryption-Tool-with-Python
 
-Watch the full video here:-
+Watch the full video here:- https://youtu.be/NAG34EOsmus?si=a4O2NUpHNQD6SWZG
 
 “Encryption is the most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it.” — Bruce Schneier
 
